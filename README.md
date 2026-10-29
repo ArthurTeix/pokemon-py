@@ -70,4 +70,3 @@ Caso tenha sugestões ou melhorias, fique à vontade para abrir uma **issue** ou
 ---
 
 🚀 **Divirta-se programando e aprimorando este jogo!**
-
